@@ -1,1 +1,0 @@
-Deny from ::1Deny from ::1Deny from ::1Deny from ::1Deny from ::1Deny from ::1
